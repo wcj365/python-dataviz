@@ -1,10 +1,10 @@
 # Pytohn Data Visualization
 Experimenting various Python dataviz libraries
 - Matplotlib (low-level, static)
-    - Pandas (high-level)
-    - Seaborn (high-level)
-- Ployly (low-level, interactive, D3.js based)
-    - Plotly Express (high-level)
-    - Dash with Ployly Express (dash boarding)
-- Bokeh (high-level, interactive, D3.js based)
-- Altair (hifh-level, interactive,D3.js based,  declarative)
+    - Pandas (high-level, static, based on Matplotlib)
+    - Seaborn (high-level, static, based on Matplotlib)
+- Ployly (low-level, interactive, based on D3.js)
+    - Plotly Express (high-level, based on Plotly)
+    - Dash with Ployly Express (For creating dashboard using Plotly Express)
+- Bokeh (high-level, interactive, based on D3.js)
+- Altair (high-level, interactive, based on D3.js)
