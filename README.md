@@ -6,7 +6,7 @@
 - Interactive Visualization (D3.js based):
     - Plotly (low level)
     - Plotly Express (high-level)
-    - Bokeh
-    - Altair (Declarative)
+    - Bokeh (high-level)
+    - Altair (high-level)
 - Dashboard
     - Dash by Plotly
