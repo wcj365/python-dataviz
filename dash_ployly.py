@@ -1,4 +1,5 @@
 # Source: https://www.xlwings.org/blog/reporting-with-python
+# References: https://bookdown.org/jamie/python_visualisation/
 # Run this web app from notebooks.ai. 
 
 import pandas as pd
