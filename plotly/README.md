@@ -11,5 +11,5 @@
     - Legend
 
 ## References
-[Plotly Cheat Sheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
-[Plotly + Anvil](https://opensource.com/article/20/5/plotly-python)
+- [Plotly Cheat Sheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
+- [Plotly + Anvil](https://opensource.com/article/20/5/plotly-python)
